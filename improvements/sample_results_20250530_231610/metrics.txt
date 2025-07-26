@@ -1,0 +1,3 @@
+Average PSNR: 28.60 dB
+Average SSIM: 0.9983
+Total images evaluated: 3200
